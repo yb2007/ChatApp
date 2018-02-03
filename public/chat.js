@@ -1,5 +1,5 @@
 // Make connection
-var socket = io.connect('https://thirdeye-chat.azurewebsites.net:3000');
+var socket = io.connect('https://third-eye1.herokuapp.com');
 
 // Query DOM
 var message = document.getElementById('message'),
